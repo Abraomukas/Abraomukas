@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="https://linkedin.com/in/abraomukas"><img src="images/header.gif" alt="Abraomukas' Header"></a>
+
+
 ### Hi there 👋
 
 <!--
