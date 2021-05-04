@@ -2,7 +2,7 @@
   <a href="https://linkedin.com/in/abraomukas"><img src="images/header.gif" alt="Abraomukas' Header"></a>
 
 
-### Hi there 👋
+### Hello there 👋:nerd_face:
 
 <!--
 **Abraomukas/Abraomukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
