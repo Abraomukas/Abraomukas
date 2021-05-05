@@ -5,6 +5,7 @@
 
 <a href="https://twitter.com/abraomukas"><img height="30" src="images/icons/twitter.png"></a>
 <a href="https://www.linkedin.com/in/abraomukas/"><img height="30" src="images/icons/linkedin.png"></a>
+<a href="https://www.hackerrank.com/abraomukas"><img height="30" src="images/icons/hackerrank.png"></a>
 </p>
 
 ## Hello there! :wave:
@@ -19,7 +20,8 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 <br>
 
-- Building a fullstack app using the MERN stack
+- Building a fullstack app using the MERN stack - <a href="https://github.com/Abraomukas/brown-gazelles-final-project">Tinder for doggos</a>
+- Building a fullstack app using the MERN stack - <a href="https://github.com/Abraomukas/what-2-play">What2Play</a>
 - Getting a golden badge in Java on HackerRank
 - Getting a golden badge in Python on HackerRank
 - Getting a golden badge in JavaScript on HackerRank
