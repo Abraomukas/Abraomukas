@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://linkedin.com/in/abraomukas/"><img src="images/header.gif" alt="Abraomukas' in a nutshell"></a>
+  <a href="https://linkedin.com/in/abraomukas/"><img src="images/hero.gif" alt="Abraomukas' in a nutshell"></a>
 
 <p align='center'>
 
