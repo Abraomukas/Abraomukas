@@ -64,6 +64,7 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 ![](https://img.shields.io/badge/-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-GIMP-informational?style=flat&logo=gimp&logoColor=white&color=darkblue)
 
 <br>
 
