@@ -51,6 +51,7 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 ![](https://img.shields.io/badge/-JPA-informational?style=flat&logo=java&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-JUnit-informational?style=flat&logo=java&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-Spring_Boot-informational?style=flat&logo=spring&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Maven-informational?style=flat&logo=apache-maven&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=darkblue)
