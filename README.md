@@ -24,9 +24,9 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 <br>
 
-- Building a fullstack app using the MERN stack - <a href="https://github.com/Abraomukas/brown-gazelles-final-project">Tinder for doggos</a>
+- Building a fullstack app using the MERN stack - <a>Tinder for doggos</a>
 
-- Building a fullstack app using the MERN stack - <a href="https://github.com/Abraomukas/what-2-play">What2Play</a>
+- Building a fullstack app using the MERN stack - <a>What2Play</a>
 
 - Getting a golden badge in Java on HackerRank
 
@@ -45,6 +45,8 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 <br>
 
 ![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-VS_Code-informational?style=flat&logo=microsoft&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=Java&logoColor=white&color=darkblue)
