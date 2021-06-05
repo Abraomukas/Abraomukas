@@ -12,7 +12,7 @@
 
 ## Hello there! :wave:
 
-I love coding, learning and experimenting. Always looking forward to the next challenge and improving on what I do. Currently enrolled in a coding bootcamp, looking for a job and working on my skillset to be a better software engineer.
+I love coding, learning and experimenting. Always looking forward to the next challenge and improving on what I do. Currently looking for a job and working on my skillset to be a better software engineer.
 
 <br>
 
@@ -24,9 +24,8 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 <br>
 
-- Building a fullstack app using the MERN stack - <a>Tinder for doggos</a>
 
-- Building a fullstack app using the MERN stack - <a>What2Play</a>
+- Building a fullstack app using the MERN stack and MDB - <a>What2Play</a>
 
 - Getting a golden badge in Java on HackerRank
 
@@ -44,30 +43,31 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 <br>
 
-![](https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-VS_Code-informational?style=flat&logo=microsoft&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-Java-informational?style=flat&logo=Java&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-JPA-informational?style=flat&logo=java&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-JUnit-informational?style=flat&logo=java&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-Spring_Boot-informational?style=flat&logo=spring&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-Maven-informational?style=flat&logo=apache-maven&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-Express-informational?style=flat&logo=express&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-Postman-informational?style=flat&logo=postman&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-GIMP-informational?style=flat&logo=gimp&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Git-informational?style=flat-square&logo=git&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-VS_Code-informational?style=flat-square&logo=microsoft&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Java-informational?style=flat-square&logo=Java&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-JPA-informational?style=flat-square&logo=java&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-JUnit-informational?style=flat-square&logo=java&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Spring_Boot-informational?style=flat-square&logo=spring&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Maven-informational?style=flat-square&logo=apache-maven&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Express-informational?style=flat-square&logo=express&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-React-informational?style=flat-square&logo=react&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Node.js-informational?style=flat-square&logo=node-dot-js&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Postman-informational?style=flat-square&logo=postman&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Heroku-informational?style=flat-square&logo=heroku&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Netlify-informational?style=flat-square&logo=netlify&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Jenkins-informational?style=flat-square&logo=jenkins&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-GIMP-informational?style=flat-square&logo=gimp&logoColor=white&color=darkblue)
 
 <br>
 
