@@ -25,7 +25,7 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 <br>
 
 
-- Building a fullstack app using the MERN stack and MDB - <a>What2Play</a>
+- Building a fullstack app using the MERN stack, Bootstrap and MDB - <a>What2Play</a>
 
 - Getting a golden badge in Java on HackerRank
 
@@ -49,7 +49,8 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 ![](https://img.shields.io/badge/-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-VS_Code-informational?style=flat-square&logo=microsoft&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-Java-informational?style=flat-square&logo=Java&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/-JPA-informational?style=flat-square&logo=&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-JPA-informational?style=flat-square&logo=<<>>&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Makefile-informational?style=flat-square&logo=<<>>&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-JUnit-informational?style=flat-square&logo=junit5&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-Spring_Boot-informational?style=flat-square&logo=spring&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-Maven-informational?style=flat-square&logo=apache-maven&logoColor=white&color=darkblue)
