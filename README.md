@@ -27,8 +27,6 @@ I love coding, learning and experimenting. Always looking forward to the next ch
   
 - Improving an existing solution to manage Toastmasters Clubs - <a>easierSpeak</a>
 
-- Getting a golden badge in Java on HackerRank
-
 - Building a fullstack app to help me decide what to play next - <a>What2Play</a>
 
 - Getting a golden badge in Python on HackerRank
