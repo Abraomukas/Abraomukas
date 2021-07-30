@@ -71,6 +71,7 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 ![](https://img.shields.io/badge/-Jenkins-informational?style=flat-square&logo=jenkins&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-GIMP-informational?style=flat-square&logo=gimp&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-React_Native-informational?style=flat-square&logo=react&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Expo-informational?style=flat-square&logo=expo&logoColor=white&color=darkblue)
 
 <br>
 
