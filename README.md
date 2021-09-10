@@ -25,6 +25,8 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 <br>
 
   
+- Creating the MVP for <a href="https://www.zimconnections.com/">ZIM Connections</a>
+  
 - Improving an existing solution to manage Toastmasters Clubs - <a>easierSpeak</a>
 
 - Building a fullstack app to help me decide what to play next - <a>What2Play</a>
