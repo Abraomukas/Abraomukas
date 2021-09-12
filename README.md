@@ -50,6 +50,7 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 ![](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-VS_Code-informational?style=flat-square&logo=microsoft&logoColor=white&color=darkblue)
+![](https://img.shields.io/badge/-Android_Studio-informational?style=flat-square&logo=android-studio&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-Java-informational?style=flat-square&logo=Java&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-JPA-informational?style=flat-square&logo=<<>>&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/-Makefile-informational?style=flat-square&logo=<<>>&logoColor=white&color=darkblue)
