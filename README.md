@@ -12,7 +12,7 @@
 
 ## Hello there! :wave:
 
-I love coding, learning and experimenting. Always looking forward to the next challenge and improving on what I do. Currently looking for a job and working on my skillset to be a better software engineer. Nico.
+I love coding, learning and experimenting. Always looking forward to the next challenge and improving on what I do. Currently looking for a job and working on my skillset to be a better software engineer.
 
 <br>
 
@@ -25,7 +25,7 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 <br>
 
   
-- Creating the MVP for <a href="https://www.zimconnections.com/">ZIM Connections</a>
+- Lead Developer for <a href="https://www.zimconnections.com/">ZIM Connections</a>
   
 - Improving an existing solution to manage Toastmasters Clubs - <a>easierSpeak</a>
 
