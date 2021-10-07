@@ -25,7 +25,7 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 <br>
 
   
-- Lead Developer for <a href="https://www.zimconnections.com/">ZIM Connections</a>
+- Creating the MVP of <a href="https://www.zimconnections.com/">ZIM Connections</a>
   
 - Improving an existing solution to manage Toastmasters Clubs - <a>easierSpeak</a>
 
