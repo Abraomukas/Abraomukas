@@ -6,6 +6,7 @@
 <a href="https://twitter.com/abraomukas"><img height="30" src="images/icons/twitter.png"></a>
 <a href="https://www.linkedin.com/in/abraomukas/"><img height="30" src="images/icons/linkedin.png"></a>
 <a href="https://www.hackerrank.com/abraomukas"><img height="30" src="images/icons/hackerrank.png"></a>
+
 </p>
 
 </div>
@@ -24,9 +25,7 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 <br>
 
-  
-- Creating the MVP of <a href="https://www.zimconnections.com/">ZIM Connections</a>
-  
+- Lead Developer @ <a href="https://www.zimconnections.com/">ZIM Connections</a>
 - Improving an existing solution to manage Toastmasters Clubs - <a>easierSpeak</a>
 
 - Building a fullstack app to help me decide what to play next - <a>What2Play</a>
@@ -98,11 +97,11 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 <br>
 
-## Fun facts: :grin:   
+## Fun facts: :grin:
 
 <br>
 
-- My body runs on sugar. Especially chocolate M&M's. 
+- My body runs on sugar. Especially chocolate M&M's.
 - I am obsessed with adidas.
 
 <br>
