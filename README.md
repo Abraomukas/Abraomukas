@@ -13,7 +13,7 @@
 
 ## Hello there! :wave:
 
-I love coding, learning and experimenting. Always looking forward to the next challenge and improving on what I do. Currently looking for a job and working on my skillset to be a better software engineer.
+I love coding, learning and experimenting. Always looking forward to the next challenge and improving on what I do. Currently working on my skillset to be a better software engineer.
 
 <br>
 
