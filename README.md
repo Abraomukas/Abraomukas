@@ -78,6 +78,7 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 ![npm](https://img.shields.io/badge/-npm-informational?style=flat-square&logo=npm&logoColor=white&color=darkblue)
 ![Figma](https://img.shields.io/badge/-Figma-informational?style=flat-square&logo=figma&logoColor=white&color=darkblue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=darkblue)
+![Perl](https://img.shields.io/badge/-Perl-informational?style=flat-square&logo=perl&logoColor=white&color=darkblue)
 
 <br>
 
