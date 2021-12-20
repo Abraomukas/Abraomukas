@@ -13,7 +13,7 @@
 
 ## Hello there! :wave:
 
-I love coding, learning and experimenting. Always looking forward to the next challenge and improving on what I do. Currently working on my skillset to be a better software engineer.
+I love coding, learning and experimenting. Always looking forward to the next challenge and improving on what I do. Always working on my skillset to be a better software engineer.
 
 <br>
 
@@ -25,6 +25,7 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 <br>
 
+- Backend developer @ Deriv DMCC
 - Lead Developer @ <a href="https://www.zimconnections.com/">ZIM Connections</a>
 - Improving an existing solution to manage Toastmasters Clubs - <a>easierSpeak</a>
 
