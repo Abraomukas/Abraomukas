@@ -25,7 +25,7 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 <br>
 
-- Backend developer @ Deriv DMCC
+- Backend developer @ <a href="https://deriv.com/">Deriv DMCC</a>
 - Lead Developer @ <a href="https://www.zimconnections.com/">ZIM Connections</a>
 - Improving an existing solution to manage Toastmasters Clubs - <a>easierSpeak</a>
 
