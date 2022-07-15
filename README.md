@@ -85,6 +85,12 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 ![Expo](https://img.shields.io/badge/-Expo-informational?style=flat-square&logo=expo&logoColor=white&color=darkblue)
 ![Figma](https://img.shields.io/badge/-Figma-informational?style=flat-square&logo=figma&logoColor=white&color=darkblue)
 ![Perl](https://img.shields.io/badge/-Perl-informational?style=flat-square&logo=perl&logoColor=white&color=darkblue)
+![Confluence Cloud](https://img.shields.io/badge/-Confluence_Cloud-informational?style=flat-square&logo=confluence&logoColor=white&color=darkblue)
+![Redis](https://img.shields.io/badge/-Redis-informational?style=flat-square&logo=redis&logoColor=white&color=darkblue)
+![Redmine](https://img.shields.io/badge/-Redmine-informational?style=flat-square&logo=redmine&logoColor=white&color=darkblue)
+![Bitcoin](https://img.shields.io/badge/-Bitcoin-informational?style=flat-square&logo=bitcoin&logoColor=white&color=darkblue)
+![Ethereum](https://img.shields.io/badge/-Perl-informational?style=flat-square&logo=ethereum&logoColor=white&color=darkblue)
+![Litecoin](https://img.shields.io/badge/-Litecoin-informational?style=flat-square&logo=litecoin&logoColor=white&color=darkblue)
 
 <br>
 
