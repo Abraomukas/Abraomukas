@@ -25,14 +25,13 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 <br>
 
-- Freelance Developer @ <a href="https://www.zimconnections.com/">ZIM Connections</a>
+- Building a portfolio thanks to <a href="https://www.freecodecamp.org/">freeCodeCamp</a>
+
 - Improving an existing solution to manage Toastmasters Clubs - <a>easierSpeak</a>
 
 - Building a fullstack app to help me decide what to play next - <a>What2Play</a>
 
 - Getting a golden badge in Python on HackerRank
-
-- Getting a golden badge in JavaScript on HackerRank
 
 <br>
 
