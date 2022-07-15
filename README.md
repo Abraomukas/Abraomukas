@@ -31,7 +31,7 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 - Building a fullstack app to help me decide what to play next - <a>What2Play</a>
 
-- Getting a golden badge in Python on HackerRank
+- Getting a golden badge in Python on <a href="https://www.hackerrank.com">HackerRank</a>
 
 <br>
 
@@ -39,7 +39,11 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 <br>
 
-## :wrench: Technologies and tools I use
+## :wrench: Technicl stack I am using
+
+<br>
+
+## :thinking: Technologies and tools I have worked with
 
 <br>
 
