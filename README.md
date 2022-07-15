@@ -54,6 +54,7 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 ![Express](https://img.shields.io/badge/-Express-informational?style=flat-square&logo=express&logoColor=white&color=darkblue)
 ![npm](https://img.shields.io/badge/-npm-informational?style=flat-square&logo=npm&logoColor=white&color=darkblue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=darkblue)
+![Jest](https://img.shields.io/badge/-Jest-informational?style=flat-square&logo=jest&logoColor=white&color=darkblue)
 
 <br>
 
