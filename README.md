@@ -25,6 +25,8 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 <br>
 
+- Collaborator @ <a href="https://github.com/mecena-git">Mecena</a>
+
 - Building a portfolio thanks to <a href="https://www.freecodecamp.org/">freeCodeCamp</a>
 
 - Improving an existing solution to manage Toastmasters Clubs - <a>easierSpeak</a>
@@ -61,7 +63,6 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 ## :thinking: Technologies and tools I have worked with
 
 <br>
-
 
 ![Makefile](https://img.shields.io/badge/-Makefile-informational?style=flat-square&logo=<<>>&logoColor=white&color=darkblue)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=darkblue)
