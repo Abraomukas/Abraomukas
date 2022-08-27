@@ -31,7 +31,7 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 - Improving an existing solution to manage Toastmasters Clubs - <a>easierSpeak</a>
 
-- Building a fullstack app to help me decide what to play next - <a>What2Play</a>
+- Building a full stack solution to help me decide what to play next - <a>What2Play</a>
 
 - Getting a golden badge in Python on <a href="https://www.hackerrank.com">HackerRank</a>
 
@@ -51,12 +51,11 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 ![VS Code](https://img.shields.io/badge/-VS_Code-informational?style=flat-square&logo=microsoft&logoColor=white&color=darkblue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=darkblue)
 ![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat-square&logo=node.js&logoColor=white&color=darkblue)
-![Docker](https://img.shields.io/badge/-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=darkblue)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=darkblue)
 ![Express](https://img.shields.io/badge/-Express-informational?style=flat-square&logo=express&logoColor=white&color=darkblue)
+![React](https://img.shields.io/badge/-React-informational?style=flat-square&logo=react&logoColor=white&color=darkblue)
+![Figma](https://img.shields.io/badge/-Figma-informational?style=flat-square&logo=figma&logoColor=white&color=darkblue)
 ![npm](https://img.shields.io/badge/-npm-informational?style=flat-square&logo=npm&logoColor=white&color=darkblue)
-![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=darkblue)
-![Jest](https://img.shields.io/badge/-Jest-informational?style=flat-square&logo=jest&logoColor=white&color=darkblue)
 
 <br>
 
@@ -64,6 +63,8 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 <br>
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=darkblue)
+![Jest](https://img.shields.io/badge/-Jest-informational?style=flat-square&logo=jest&logoColor=white&color=darkblue)
 ![Makefile](https://img.shields.io/badge/-Makefile-informational?style=flat-square&logo=<<>>&logoColor=white&color=darkblue)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=darkblue)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-informational?style=flat-square&logo=android-studio&logoColor=white&color=darkblue)
@@ -75,7 +76,6 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=python&logoColor=white&color=darkblue)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=darkblue)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=darkblue)
-![React](https://img.shields.io/badge/-React-informational?style=flat-square&logo=react&logoColor=white&color=darkblue)
 ![React Router](https://img.shields.io/badge/-React_Router-informational?style=flat-square&logo=react-router&logoColor=white&color=darkblue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=darkblue)
 ![Postman](https://img.shields.io/badge/-Postman-informational?style=flat-square&logo=postman&logoColor=white&color=darkblue)
@@ -85,7 +85,6 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 ![GIMP](https://img.shields.io/badge/-GIMP-informational?style=flat-square&logo=gimp&logoColor=white&color=darkblue)
 ![React Native](https://img.shields.io/badge/-React_Native-informational?style=flat-square&logo=react&logoColor=white&color=darkblue)
 ![Expo](https://img.shields.io/badge/-Expo-informational?style=flat-square&logo=expo&logoColor=white&color=darkblue)
-![Figma](https://img.shields.io/badge/-Figma-informational?style=flat-square&logo=figma&logoColor=white&color=darkblue)
 ![Perl](https://img.shields.io/badge/-Perl-informational?style=flat-square&logo=perl&logoColor=white&color=darkblue)
 ![Confluence Cloud](https://img.shields.io/badge/-Confluence_Cloud-informational?style=flat-square&logo=confluence&logoColor=white&color=darkblue)
 ![Redis](https://img.shields.io/badge/-Redis-informational?style=flat-square&logo=redis&logoColor=white&color=darkblue)
