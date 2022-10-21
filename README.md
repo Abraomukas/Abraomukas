@@ -59,14 +59,7 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 ![React](https://img.shields.io/badge/-React-informational?style=flat-square&logo=react&logoColor=white&color=darkblue)
 ![Figma](https://img.shields.io/badge/-Figma-informational?style=flat-square&logo=figma&logoColor=white&color=darkblue)
 ![npm](https://img.shields.io/badge/-npm-informational?style=flat-square&logo=npm&logoColor=white&color=darkblue)
-![Windows](https://img.shields.io/badge/-Windows_10-informational?style=flat-square&logo=windows&logoColor=white&color=darkblue)
-![Java](https://img.shields.io/badge/-Java-informational?style=flat-square&logo=openjdk&logoColor=white&color=darkblue)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-informational?style=flat-square&logo=springboot&logoColor=white&color=darkblue)
 ![Postman](https://img.shields.io/badge/-Postman-informational?style=flat-square&logo=postman&logoColor=white&color=darkblue)
-![Eclipse IDE](https://img.shields.io/badge/-eclipse-informational?style=flat-square&logo=eclipse&logoColor=white&color=darkblue)
-![Apache Tomcat](https://img.shields.io/badge/-Apache_Tomcat-informational?style=flat-square&logo=apache-tomcat&logoColor=white&color=darkblue)
-![Confluence JIRA](https://img.shields.io/badge/-Confluence_JIRA-informational?style=flat-square&logo=jira&logoColor=white&color=darkblue)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-informational?style=flat-square&logo=bitbucket&logoColor=white&color=darkblue)
 
 <br>
 
@@ -74,6 +67,13 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 <br>
 
+![Windows](https://img.shields.io/badge/-Windows_10-informational?style=flat-square&logo=windows&logoColor=white&color=darkblue)
+![Java](https://img.shields.io/badge/-Java-informational?style=flat-square&logo=openjdk&logoColor=white&color=darkblue)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-informational?style=flat-square&logo=springboot&logoColor=white&color=darkblue)
+![Eclipse IDE](https://img.shields.io/badge/-eclipse-informational?style=flat-square&logo=eclipse&logoColor=white&color=darkblue)
+![Apache Tomcat](https://img.shields.io/badge/-Apache_Tomcat-informational?style=flat-square&logo=apache-tomcat&logoColor=white&color=darkblue)
+![Confluence JIRA](https://img.shields.io/badge/-Confluence_JIRA-informational?style=flat-square&logo=jira&logoColor=white&color=darkblue)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-informational?style=flat-square&logo=bitbucket&logoColor=white&color=darkblue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=darkblue)
 ![Jest](https://img.shields.io/badge/-Jest-informational?style=flat-square&logo=jest&logoColor=white&color=darkblue)
 ![Makefile](https://img.shields.io/badge/-Makefile-informational?style=flat-square&logo=<<>>&logoColor=white&color=darkblue)
