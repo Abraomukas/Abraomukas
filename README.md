@@ -5,7 +5,6 @@
 
 <a href="https://twitter.com/abraomukas"><img height="30" src="images/icons/twitter.png"></a>
 <a href="https://www.linkedin.com/in/abraomukas/"><img height="30" src="images/icons/linkedin.png"></a>
-<a href="https://www.hackerrank.com/abraomukas"><img height="30" src="images/icons/hackerrank.png"></a>
 
 </p>
 
@@ -35,8 +34,6 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 - Improving an existing solution to manage Toastmasters Clubs - <a>easierSpeak</a>
 
 - Building a full stack solution to help me decide what to play next - <a>What2Play</a>
-
-- Getting a golden badge in Python on <a href="https://www.hackerrank.com">HackerRank</a>
 
 <br>
 
