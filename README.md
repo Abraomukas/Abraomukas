@@ -25,6 +25,8 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 <br>
 
 - Building a portfolio
+
+- Getting familiar with .NET
   
 - Collaborator @ <a href="https://github.com/mecena-git">Mecena</a>
 
@@ -45,6 +47,7 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 <br>
 
+![.NET](https://img.shields.io/badge/-.NET-informational?style=flat-square&logo=.net&logoColor=white&color=darkblue)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white&color=darkblue)
 ![Git](https://img.shields.io/badge/-Git-informational?style=flat-square&logo=git&logoColor=white&color=darkblue)
 ![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&color=darkblue)
