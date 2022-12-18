@@ -24,14 +24,14 @@ I love coding, learning and experimenting. Always looking forward to the next ch
 
 <br>
 
-- Building a portfolio
+  
+- Going through <a href="https://www.freecodecamp.org/">freeCodeCamp</a>'s certifications
+  - Back End Development and APIs
+
 
 - Getting familiar with .NET
   
 - Collaborator @ <a href="https://github.com/mecena-git">Mecena</a>
-
-  
-- Going through <a href="https://www.freecodecamp.org/">freeCodeCamp</a>'s certifications
 
 - Improving an existing solution to manage Toastmasters Clubs - <a>easierSpeak</a>
 
