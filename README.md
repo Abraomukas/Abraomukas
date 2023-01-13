@@ -10,8 +10,6 @@
 
 I love coding, learning and experimenting. I look forward to the next challenge and improving on what I do. Always working on my skill set to be a better software engineer.
 
----
-
 ## <h3 align="center">What I am working on :man_technologist:</h3>
 
 <details>
@@ -37,8 +35,6 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 
 </details>
 
----
-
 ## <h3 align="center">Technical stack I am using :gear:</h3>
 
 ![.NET](https://img.shields.io/badge/-.NET-informational?style=flat-square&logo=.net&logoColor=white&color=darkblue) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white&color=darkblue) ![Git](https://img.shields.io/badge/-Git-informational?style=flat-square&logo=git&logoColor=white&color=darkblue) ![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&color=darkblue) ![VS Code](https://img.shields.io/badge/-VS_Code-informational?style=flat-square&logo=microsoft&logoColor=white&color=darkblue) ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=darkblue) ![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat-square&logo=node.js&logoColor=white&color=darkblue) ![MongoDB](https://img.shields.io/badge/-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=darkblue) ![Express](https://img.shields.io/badge/-Express-informational?style=flat-square&logo=express&logoColor=white&color=darkblue) ![React](https://img.shields.io/badge/-React-informational?style=flat-square&logo=react&logoColor=white&color=darkblue) ![npm](https://img.shields.io/badge/-npm-informational?style=flat-square&logo=npm&logoColor=white&color=darkblue)
@@ -58,8 +54,6 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abraomukas&theme=gotham&show_icons=true)
 
 </div>
-
----
 
 ## <h3 align="center">Fun facts :grin:</h3>
 
