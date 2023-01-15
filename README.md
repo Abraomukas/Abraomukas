@@ -47,7 +47,7 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=abraomukas&theme=gotham&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abraomukas&theme=gotham&hide_border=false)](https://git.io/streak-stats)
 
 ![Abraomukas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=abraomukas&theme=gotham&show_icons=true)
 
