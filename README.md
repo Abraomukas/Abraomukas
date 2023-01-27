@@ -15,7 +15,7 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 <details>
   <summary>Right now</summary>
 
-- Going through <a href="https://www.freecodecamp.org/">freeCodeCamp</a>'s certifications
+- Going through freeCodeCamp's certifications (<a href="https://www.freecodecamp.org/learn">click here</a>)
   - Back End Development and APIs
 
 </details>
@@ -24,14 +24,15 @@ I love coding, learning and experimenting. I look forward to the next challenge 
   <summary>In the near future</summary>
 
 - Building a Twitter clone
-- Building a full stack solution to help me decide what to play next - <a>What2Play</a>
+- Building a full stack solution to help me decide what to play next - <a  href="#">What2Play</a>
 
 </details>
 
 <details>
   <summary>In the far future</summary>
 
-- Improving an existing solution to manage Toastmasters Clubs - <a>easierSpeak</a>
+- Finishing Codility challenges (<a href="https://app.codility.com/programmers/challenges/">click here</a>)
+- Improving an existing solution to manage Toastmasters Clubs - <a href="#">easierSpeak</a>
 
 </details>
 
