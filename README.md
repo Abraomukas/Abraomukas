@@ -15,9 +15,18 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 <details>
   <summary>Right now</summary>
 
-- Building a Twitter clone
+- Working as a Full Stack developer @ <a  href="#">Enhance Fitness</a>
 
-- Going through freeCodeCamp's certifications (<a href="https://www.freecodecamp.org/learn">click here</a>)
+- Building a full stack solution to help gamers decide what to play next - <a  href="https://www.enhancefitness.com/ae?lang=en">What2Play</a>
+
+</details>
+
+<details>
+  <summary>In the near future</summary>
+
+- Build a Twitter clone
+
+- Go through freeCodeCamp's certifications (<a href="https://www.freecodecamp.org/learn">click here</a>)
   - Back End Development and APIs :white_check_mark:
   - JavaScript Algorithms and Data Structures
   - Front End Development Libraries
@@ -26,22 +35,16 @@ I love coding, learning and experimenting. I look forward to the next challenge 
   - Responsive Web Design
   - Coding Interview Prep
 
-</details>
-
-<details>
-  <summary>In the near future</summary>
-
-- Building a full stack solution to help gamers decide what to play next - <a  href="#">What2Play</a>
-
-- Building a full stack solution to help the gaming trophy hunting community - <a  href="#">PSTrophiesHub</a>
+- Build a full stack solution to help the gaming trophy hunting community - <a  href="#">PSTrophiesHub</a>
 
 </details>
 
 <details>
   <summary>In the far future</summary>
 
-- Finishing Codility challenges (<a href="https://app.codility.com/programmers/challenges/">click here</a>)
-- Improving an existing solution to manage Toastmasters Clubs - <a href="#">easierSpeak</a>
+- Finish Codility challenges (<a href="https://app.codility.com/programmers/challenges/">click here</a>)
+  
+- Improve an existing solution to manage Toastmasters Clubs - <a href="#">easierSpeak</a>
 
 </details>
 
