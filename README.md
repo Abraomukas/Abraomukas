@@ -15,9 +15,9 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 <details>
   <summary>Right now</summary>
 
-- Working as a Full Stack developer @ <a  href="#">Enhance Fitness</a>
+- Working as a Full Stack developer @ <a  href="https://www.enhancefitness.com/ae?lang=en">Enhance Fitness</a>
 
-- Building a full stack solution to help gamers decide what to play next - <a  href="https://www.enhancefitness.com/ae?lang=en">What2Play</a>
+- Building a full stack solution to help gamers decide what to play next - <a  href="#">What2Play</a>
 
 </details>
 
@@ -27,6 +27,7 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 - Build a Twitter clone
 
 - Go through freeCodeCamp's certifications (<a href="https://www.freecodecamp.org/learn">click here</a>)
+
   - Back End Development and APIs :white_check_mark:
   - JavaScript Algorithms and Data Structures
   - Front End Development Libraries
@@ -43,14 +44,13 @@ I love coding, learning and experimenting. I look forward to the next challenge 
   <summary>In the far future</summary>
 
 - Finish Codility challenges (<a href="https://app.codility.com/programmers/challenges/">click here</a>)
-  
 - Improve an existing solution to manage Toastmasters Clubs - <a href="#">easierSpeak</a>
 
 </details>
 
 ## <h3 align="center">Technical stack I am using :gear:</h3>
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white&color=darkblue) ![Git](https://img.shields.io/badge/-Git-informational?style=flat-square&logo=git&logoColor=white&color=darkblue) ![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&color=darkblue) ![Eclipse IDE](https://img.shields.io/badge/-eclipse-informational?style=flat-square&logo=eclipse&logoColor=white&color=darkblue) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-informational?style=flat-square&logo=bitbucket&logoColor=white&color=darkblue) ![Amazon S3](https://img.shields.io/badge/-AWS_S3-informational?style=flat-square&logo=amazon-s3&logoColor=white&color=darkblue) ![Java 11](https://img.shields.io/badge/-Java_11-informational?style=flat-square&logo=openjdk&logoColor=white&color=darkblue)  ![Spring](https://img.shields.io/badge/-Spring-informational?style=flat-square&logo=spring&logoColor=white&color=darkblue)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=darkblue) ![Express](https://img.shields.io/badge/-Express-informational?style=flat-square&logo=express&logoColor=white&color=darkblue)![Confluence Cloud](https://img.shields.io/badge/-Confluence_Cloud-informational?style=flat-square&logo=confluence&logoColor=white&color=darkblue) ![Figma](https://img.shields.io/badge/-Figma-informational?style=flat-square&logo=figma&logoColor=white&color=darkblue) ![Apache Tomcat](https://img.shields.io/badge/-Apache_Tomcat-informational?style=flat-square&logo=apache-tomcat&logoColor=white&color=darkblue) ![Apache Maven](https://img.shields.io/badge/-Apache_Maven-informational?style=flat-square&logo=apache-maven&logoColor=white&color=darkblue) ![Postman](https://img.shields.io/badge/-Postman-informational?style=flat-square&logo=postman&logoColor=white&color=darkblue)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white&color=darkblue) ![Git](https://img.shields.io/badge/-Git-informational?style=flat-square&logo=git&logoColor=white&color=darkblue) ![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&color=darkblue) ![Eclipse IDE](https://img.shields.io/badge/-eclipse-informational?style=flat-square&logo=eclipse&logoColor=white&color=darkblue) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-informational?style=flat-square&logo=bitbucket&logoColor=white&color=darkblue) ![Amazon S3](https://img.shields.io/badge/-AWS_S3-informational?style=flat-square&logo=amazon-s3&logoColor=white&color=darkblue) ![Java 11](https://img.shields.io/badge/-Java_11-informational?style=flat-square&logo=openjdk&logoColor=white&color=darkblue) ![Spring](https://img.shields.io/badge/-Spring-informational?style=flat-square&logo=spring&logoColor=white&color=darkblue) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=darkblue) ![Express](https://img.shields.io/badge/-Express-informational?style=flat-square&logo=express&logoColor=white&color=darkblue)![Confluence Cloud](https://img.shields.io/badge/-Confluence_Cloud-informational?style=flat-square&logo=confluence&logoColor=white&color=darkblue) ![Figma](https://img.shields.io/badge/-Figma-informational?style=flat-square&logo=figma&logoColor=white&color=darkblue) ![Apache Tomcat](https://img.shields.io/badge/-Apache_Tomcat-informational?style=flat-square&logo=apache-tomcat&logoColor=white&color=darkblue) ![Apache Maven](https://img.shields.io/badge/-Apache_Maven-informational?style=flat-square&logo=apache-maven&logoColor=white&color=darkblue) ![Postman](https://img.shields.io/badge/-Postman-informational?style=flat-square&logo=postman&logoColor=white&color=darkblue)
 
 ## <h3 align="center">Technical stack I used to work with :thinking:</h3>
 
