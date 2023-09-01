@@ -15,8 +15,6 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 <details>
   <summary>Right now</summary>
 
-- Working as a Full Stack developer @ <a  href="https://www.enhancefitness.com/ae?lang=en">Enhance Fitness</a>
-
 - Building a full stack solution to help gamers decide what to play next - <a  href="#">What2Play</a>
 
 </details>
