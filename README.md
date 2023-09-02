@@ -15,6 +15,8 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 <details>
   <summary>Right now</summary>
 
+- Looking for a software development job as a full stack engineer
+
 - Building a full stack solution to help gamers decide what to play next - <a  href="#">What2Play</a>
 
 </details>
