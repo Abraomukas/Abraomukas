@@ -3,8 +3,7 @@
 <div align="center">
   <a href="https://linkedin.com/in/abraomukas/"><img src="images/hero.gif" alt="Abraomukas in a nutshell"></a>
 
-<a href="https://twitter.com/abraomukas"><img height="30" src="images/icons/twitter.png"></a>
-<a href="https://www.linkedin.com/in/abraomukas/"><img height="30" src="images/icons/linkedin.png"></a>
+<a href="https://twitter.com/abraomukas"><img height="30" src="images/icons/twitter.png"/><a href="https://www.linkedin.com/in/abraomukas/"><img height="30" src="images/icons/linkedin.png"/>
 
 </div>
 
