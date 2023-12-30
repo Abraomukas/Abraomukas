@@ -14,7 +14,7 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 <details>
   <summary>Right now</summary>
 
-- I work as a junior full stack engineer @ H&D España
+- I work as a junior full stack engineer @ <a href="www.hyd.com.es">H&D España</a>
 
 - Go through freeCodeCamp's certifications (<a href="https://www.freecodecamp.org/learn">click here</a>)
 
@@ -31,9 +31,9 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 <details>
   <summary>In the near future</summary>
 
-- Build a full stack solution to help gamers decide what to play next - <a  href="#">What2Play</a>
+- Build a full stack solution to help gamers decide what to play next - <a href="#">What2Play</a>
 
-- Build a full stack solution to help the gaming trophy hunting community - <a  href="#">PSTrophiesHub</a>
+- Build a full stack solution to help the gaming trophy hunting community - <a href="#">PSTrophiesHub</a>
 
 </details>
 
