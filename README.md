@@ -16,6 +16,8 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 
 - I work as a junior full stack engineer @ <a href="www.hyd.com.es">H&D España</a>
 
+- Create a blog for a friend - <a href="https://github.com/Abraomukas/sex-and-the-city-2.0">Sex and the City 2.0</a>
+
 - Go through freeCodeCamp's certifications (<a href="https://www.freecodecamp.org/learn">click here</a>)
 
   - Back End Development and APIs :white_check_mark:
