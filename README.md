@@ -31,7 +31,7 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 <details>
   <summary>In the near future</summary>
 
-- Build a full stack solution to help gamers decide what to play next - <a href="#">What2Play</a>
+- Build a full stack solution to help gamers decide what to play next - <a href="https://github.com/Abraomukas/what-2-play-frontend">What2Play</a>
 
 - Build a full stack solution to help the gaming trophy hunting community - <a href="https://github.com/Abraomukas/trophies-hub-frontend">PSTrophiesHub</a>
 
