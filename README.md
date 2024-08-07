@@ -18,6 +18,12 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 
 - Create a blog for a friend - <a href="https://github.com/Abraomukas/sex-and-the-city-2.0">Sex and the City 2.0</a>
 
+
+</details>
+
+<details>
+  <summary>In the near future</summary>
+
 - Go through freeCodeCamp's certifications (<a href="https://www.freecodecamp.org/learn">click here</a>)
 
   - Back End Development and APIs :white_check_mark:
@@ -27,11 +33,6 @@ I love coding, learning and experimenting. I look forward to the next challenge 
   - Data Visualization
   - Responsive Web Design
   - Coding Interview Prep
-
-</details>
-
-<details>
-  <summary>In the near future</summary>
 
 - Build a full stack solution to help gamers decide what to play next - <a href="https://github.com/Abraomukas/what-2-play-frontend">What2Play</a>
 
