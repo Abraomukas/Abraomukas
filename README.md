@@ -16,7 +16,7 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 
 - I work as a junior full stack engineer @ <a href="www.hyd.com.es">H&D España</a>
 
-- Create a blog for a friend - <a href="https://github.com/Abraomukas/sex-and-the-city-2.0">Sex and the City 2.0</a>
+- Create a makeover website for Liga Cooperativa de Madrid - <a href="https://github.com/Abraomukas/coop-liga">LC Madriz</a>
 
 
 </details>
@@ -47,6 +47,8 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 
 - Build a Twitter clone
 
+- Create a blog for a friend - <a href="https://github.com/Abraomukas/sex-and-the-city-2.0">Sex and the City 2.0</a>
+
 - Improve an existing solution to manage Toastmasters Clubs - <a href="#">easierSpeak</a>
 
 </details>
@@ -57,7 +59,7 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 
 ## <h3 align="center">Technical stack I use for fun :gear:</h3>
 
-![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&color=darkblue) ![Express](https://img.shields.io/badge/-Express-informational?style=flat-square&logo=express&logoColor=white&color=darkblue) ![React](https://img.shields.io/badge/-React-informational?style=flat-square&logo=react&logoColor=white&color=darkblue) ![React Router](https://img.shields.io/badge/-React_Router-informational?style=flat-square&logo=react-router&logoColor=white&color=darkblue) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=darkblue) ![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat-square&logo=node.js&logoColor=white&color=darkblue) ![VS Code](https://img.shields.io/badge/-VS_Code-informational?style=flat-square&logo=microsoft&logoColor=white&color=darkblue) ![npm](https://img.shields.io/badge/-npm-informational?style=flat-square&logo=npm&logoColor=white&color=darkblue)
+![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&color=darkblue) ![Express](https://img.shields.io/badge/-Express-informational?style=flat-square&logo=express&logoColor=white&color=darkblue) ![React](https://img.shields.io/badge/-React-informational?style=flat-square&logo=react&logoColor=white&color=darkblue) ![React Router](https://img.shields.io/badge/-React_Router-informational?style=flat-square&logo=react-router&logoColor=white&color=darkblue) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=darkblue) ![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat-square&logo=node.js&logoColor=white&color=darkblue) ![VS Code](https://img.shields.io/badge/-VS_Code-informational?style=flat-square&logo=microsoft&logoColor=white&color=darkblue) ![npm](https://img.shields.io/badge/-npm-informational?style=flat-square&logo=npm&logoColor=white&color=darkblue) ![TS](https://img.shields.io/badge/-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=darkblue)
 
 ## <h3 align="center">Technical stack I have used @ some point :shrug:</h3>
 
@@ -77,6 +79,6 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 
 ## <h3 align="center">Fun facts :grin:</h3>
 
+- I am an avid PlayStation gamer
 - My body runs on chocolate M&M's
 - I am obsessed with adidas
-- I am an avid PlayStation gamer
