@@ -14,7 +14,7 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 <details>
   <summary>Right now</summary>
 
-- I work as a junior full stack engineer @ <a href="www.hyd.com.es">H&D España</a>
+- I work as a mid-senior full stack engineer @ <a href="www.hyd.com.es">H&D España</a>
 
 - Create a makeover website for Liga Cooperativa de Madrid - <a href="https://github.com/Abraomukas/coop-liga">LC Madriz</a>
 
