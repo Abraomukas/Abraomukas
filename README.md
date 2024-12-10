@@ -47,8 +47,6 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 
 - Build a Twitter clone
 
-- Create a blog for a friend - <a href="https://github.com/Abraomukas/sex-and-the-city-2.0">Sex and the City 2.0</a>
-
 - Improve an existing solution to manage Toastmasters Clubs - <a href="#">easierSpeak</a>
 
 </details>
