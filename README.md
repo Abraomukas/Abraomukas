@@ -26,13 +26,13 @@ I love coding, learning and experimenting. I look forward to the next challenge 
 
 - Go through freeCodeCamp's certifications (<a href="https://www.freecodecamp.org/learn">click here</a>)
 
-  - Back End Development and APIs :white_check_mark:
+  - Responsive Web Design
   - JavaScript Algorithms and Data Structures
   - Front End Development Libraries
-  - Information Security
   - Data Visualization
-  - Responsive Web Design
-  - Coding Interview Prep
+  - Relational Database
+  - Back End Development and APIs :white_check_mark:
+  - Information Security
 
 - Build a full stack solution to help gamers decide what to play next - <a href="https://github.com/Abraomukas/what-2-play-frontend">What2Play</a>
 
